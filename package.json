@@ -22,6 +22,12 @@
       "git add"
     ]
   },
+  "linters": {
+    "*.{js,json,css,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
   "prettier": {
     "semi": false,
     "singleQuote": true,
