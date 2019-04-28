@@ -1,7 +1,7 @@
 const utils = require('./utils')
 
 module.exports = {
-  title: 'learn - More',
+  title: 'Learn - More',
   description: '个人站',
   base: '/awesome-bookmarks/',
   head: [
@@ -16,7 +16,7 @@ module.exports = {
   themeConfig: {
     nav: [
       {
-        text: '首页',
+        text: '首页瞅瞅',
         link: '/'
       },
       {
@@ -42,7 +42,7 @@ module.exports = {
     ],
     sidebar: utils.inferSiderbars(),
     lastUpdated: '上次更新',
-    repo: 'guhuilin/awesome-bookmarks',
+    repo: 'guhuilin/learnmore',
     editLinks: true,
     docsDir: 'docs',
     editLinkText: '在 GitHub 上编辑此页',
