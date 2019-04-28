@@ -1,7 +1,7 @@
 {
-  "name": "awesome-bookmarks",
+  "name": "learnmore",
   "version": "1.0.0",
-  "description": "awesome-bookmarks",
+  "description": "learnmore",
   "main": "index.js",
   "author": "guhuilin",
   "license": "ISC",
@@ -17,12 +17,6 @@
     }
   },
   "lint-staged": {
-    "*.{js,json,css,md}": [
-      "prettier --write",
-      "git add"
-    ]
-  },
-  "linters": {
     "*.{js,json,css,md}": [
       "prettier --write",
       "git add"
