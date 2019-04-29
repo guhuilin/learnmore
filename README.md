@@ -6,7 +6,7 @@ Coming Soon
 
 Base on `vuepress`
 
-在线地址：https://github.com/guhuilin/learnmore
+在线地址：
 
 **本项目为个人技术收藏集，里面会不定期分享一些作者平时用到的一些库，或者常用的网站和小工具。同时作者也会在上面不定期的写一些简单的博文**
 
